@@ -2,3 +2,5 @@ theme: jekyll-theme-cayman
 title: "Data Lake Management: Challenges and Opportunities"
 description: "Tuesday, August 27, 11:00 – 12:30 -- VLDB 2019, Los Angeles, California"
 show_downloads: false
+github:
+  is_project_page: false
