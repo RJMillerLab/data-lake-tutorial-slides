@@ -11,3 +11,5 @@ Authors:
 * Patricia C. Arocena (TD Bank Group)
 
 Citations:
+
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fgithub.com%2FRJMillerLab%2Fdata-lake-tutorial-slides%2Fraw%2Fmaster%2Fcitations.bib&jsonp=1"></script>
