@@ -1,4 +1,14 @@
-Data Lake Management: Challenges and Opportunities, VLDB 2019 (Tutorial) [Download](https://github.com/RJMillerLab/data-lake-tutorial-slides/raw/master/data-lake-tutorial-slides.pdf)
+Abstract
+--------
+
+The ubiquity of data lakes has created fascinating new challenges for data 
+management research. In this tutorial, we review the state-of-the-art in data 
+management for data lakes. We consider how data lakes are introducing new 
+problems including dataset discovery and how they are changing the requirements 
+for classic problems including data extraction, data cleaning, data integration, 
+data versioning, and metadata management.
+
+Download the [slides](https://github.com/RJMillerLab/data-lake-tutorial-slides/raw/master/data-lake-tutorial-slides.pdf).
 
 Authors
 -------
