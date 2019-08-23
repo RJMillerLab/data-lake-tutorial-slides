@@ -1,7 +1,4 @@
-Data Lake Tutorial Slides
-=========================
-
-Data Lake Management: Challenges and Opportunities, VLDB 2019 (Tutorial)
+Data Lake Management: Challenges and Opportunities, VLDB 2019 (Tutorial) [Download](https://github.com/RJMillerLab/data-lake-tutorial-slides/raw/master/data-lake-tutorial-slides.pdf)
 
 Authors
 -------
